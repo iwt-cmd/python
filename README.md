@@ -1,1 +1,1 @@
-Learning/Test Project (Python)
+Learning/Test Projects (Python)
